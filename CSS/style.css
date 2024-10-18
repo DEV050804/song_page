@@ -1,0 +1,44 @@
+body {
+    background-image: url(../IMG/img-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 20px;
+    line-height: 1.8;
+    font-family: 'Dela Gothic One', cursive;
+
+}
+h1 {
+    font-family: 'Rampart One', sans-serif;
+    font-size: 130px;
+    top: -60px;
+    left: 540px;
+    line-height: 9rem;
+    color: black;
+    position: absolute;
+}
+p1 {
+    font-family: 'Jacques Francois Shadow', cursive;
+    font-size: 50px;
+    top: 280px;
+    left: 950px;
+    color: black;
+    position: absolute;
+    
+}
+.lyrics{
+    position: absolute;
+    top: 350px;
+    color: rgb(249, 251, 251);
+    font-size: 30px;
+}
+.verse-1, .verse-2, .Outro{
+    font-family: 'Young Serif', serif;
+}
+.pre-chorus{
+    font-family: 'Jacques Francois Shadow', cursive;
+}
+.chorus{
+    font-family: 'Dela Gothic One', cursive;
+}
